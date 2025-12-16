@@ -64,7 +64,7 @@ AGM BAR (Business Automation & Revenue) is an AI-powered business assistant and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/thetruesammyjay/agm-bar.git
+git clone https://github.com/thetruesammyjay/agm-bar-assistant.git
 cd agm-bar
 ```
 
